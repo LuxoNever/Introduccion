@@ -1,4 +1,4 @@
-var btm = document.getElementById("alert");
+let btm = document.getElementById("alert");
 
 btm.onclick = function(){
 
