@@ -1,3 +1,8 @@
+body{
+
+    background-image: url(/img/WallpaperSun.jpg);
+}
+
 *{
     margin: 0;
     border: 0;
@@ -8,16 +13,22 @@
 
 .header{
     
-    background-color: rgb(255, 255, 255);
+    background-image: url(/img/WallpaperSun.jpg);
     text-align: center;
     padding: 20px;
 }
 
 #Contact{
 
-    padding: 20px;
-    background-color: cornflowerblue;
-    
+    padding: 100px;
+    background-color: rgb(142, 178, 245);
+    border-width: 10%;
+    border: 2px solid rgb(255, 0, 43);
+    margin: 5% 20px;
+    border-radius: 50px;
+    font-family: "Grechen Fuemen", serif;
+
+
 }
 
 #Inicio{
@@ -37,6 +48,27 @@ footer{
     text-align: center;
     font-weight: bolder;
 }
+h1{
+    text-align:  center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
